@@ -1,6 +1,6 @@
 Statistical ML for Breast Cancer Classification
 Tony Geglio
-SAT5114
+
 
 Github Link: https://github.com/ajgeglio/ML_For_HealthCare/upload/main
 
@@ -17,6 +17,6 @@ Description of Notebook
       precision:0.976
       specificity:0.960
 
-  3. uses gridsearch or randomsearch to tune the hyperparameters in each ML classifier
+  3. Can use gridsearch or randomsearch to tune the hyperparameters in each ML classifier
 
   4. Visualize and compare the performance of each ML algorithm.
