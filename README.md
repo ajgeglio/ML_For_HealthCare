@@ -6,10 +6,10 @@ Github Link: https://github.com/ajgeglio/ML_For_HealthCare/upload/main
 
 Description of Notebook
 
-Builds and implements functions for a k-fold cross-validation and train-test-splitting.
+  1. Builds and implements functions for a k-fold cross-validation and train-test-splitting.
 
-Applies performance report fuctions to display the final performance for the test dataset.
+  2. Applies performance report fuctions to display the final performance for the test dataset.
 
-uses gridsearch or randomsearch to tune the hyperparameters in each ML classifier
+  3. uses gridsearch or randomsearch to tune the hyperparameters in each ML classifier
 
-Visualize and compare the performance of each ML algorithm.
+  4. Visualize and compare the performance of each ML algorithm.
